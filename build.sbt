@@ -1,6 +1,6 @@
 enablePlugins(ScalaJSPlugin)
 
-name := "discle"
+name := "scala-js-tutorial"
 version := "0.1.0-SNAPSHOT"
 
 // This is an application with a main method
