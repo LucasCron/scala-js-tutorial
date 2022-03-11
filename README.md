@@ -1,2 +1,2 @@
 # scala-js-tutorial
-Wordle, but for Disc Golf disc molds
+Scala JS tutorial (NOT Wordle for discs...)
